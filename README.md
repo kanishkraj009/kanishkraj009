@@ -30,7 +30,7 @@ Robotics: Building foundational knowledge for future projects.
 
 Artificial Intelligence: Learning about neural networks and AI systems.
 
-Mathematics: Solving problems involving greatest integer functions and series expansions.
+Mathematics: Solving problems involving calculus.
 
 Basic Electrical Engineering: Understanding circuit analysis and design principles.
 
